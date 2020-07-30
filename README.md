@@ -58,7 +58,7 @@ La api cuenta con las funciones de insertar, visualizar, editar y eliminar.
 
 Direcciones de las funciones.
 
--http://127.0.0.1:8000/api/
+-http://127.0.0.1:8000/api/: Direcciones
 
 -http://127.0.0.1:8000/api/usuarios/: Agregar usuarios
 
